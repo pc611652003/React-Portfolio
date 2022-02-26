@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Project from '../Project';
 
 function Portfolio() {
   const [photos] = useState([
@@ -50,20 +51,7 @@ function Portfolio() {
     <div>
       <div className="flex-row">
         {photos.map((image) => (
-          <div className='imageContainer'>
-            <h2 className='imageTitle'>{image.name}</h2>
-            <h4 className='imageDescription'>{image.description}</h4>
-            <img
-              src={require(`../../assets/images/${image.imageLink}.PNG`)}
-              alt={image.name}
-              className="img-thumbnail mx-1"
-              key={image.imageLink}
-            />
-            <div className="link-row">
-              <a href={image.ApplicationLink}>Application</a>
-              <a href={image.RepositoryLink}>GitHub Repo</a>
-            </div>
-          </div>
+          <Project images={image} />
         ))}
       </div>
     </div>
