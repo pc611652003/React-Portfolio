@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# react-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+A Professional Portfolio allow viewers to know about me, contact me, browse some of my highlight works, and download my resume.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+* [Installation](#installation)
+* [Usage](#usage)
+* [Features](#features)
+* [Credits](#credits)
+* [Results](#results)
+* [Screenshots](#screenshots)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To install necessary dependencies, run the following commands in command line:
+npm i
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To use the application locally, run the following commands:
+npm start
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Add, Update, or Delete a User
+2. Get one or all Users' info
+3. Add or Delete a friend
+4. Add, Update, or Delete a thought
+5. Get one or all Thoughts' info
+6. Add or Delete a Reaction
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Credits
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Third-Party Assets:
+1. React
 
-### `npm run eject`
+## Results
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Portfolio Page: https://pc611652003.github.io/react-portfolio/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Repository: https://github.com/pc611652003/react-portfolio
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+When viewers visit the react portfolio, they will be greeted by About Me Page.
+Viewer can see my photo, and know me a bit from the bio.
+![About](screenshots/About.PNG "About")
 
-## Learn More
+By choosing Portfolio, viewer can see six of my highlight works. Each Work is presented with photo, link to application or github repository.
+![Portfolio](screenshots/Portfolio.PNG "Portfolio")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Viewer can contact me on this page, they can submit their name, email, and context.
+![Contact](screenshots/Contact.PNG "Contact")
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Viewer can view and download my resume on the resume page.
+![Resume](screenshots/Resume.PNG "Resume")
