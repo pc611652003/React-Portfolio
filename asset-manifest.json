@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.54b2f56e.css",
+    "main.js": "/react-portfolio/static/js/main.166be568.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/allergy-finder.PNG": "/react-portfolio/static/media/allergy-finder.c93d2539bc47db825bff.PNG",
+    "static/media/boardgame.jpg": "/react-portfolio/static/media/boardgame.f586d5aa8f8fee0ca2fa.jpg",
+    "static/media/travel-agent.PNG": "/react-portfolio/static/media/travel-agent.2116b71dc7cc2faf683f.PNG",
+    "static/media/self.jpg": "/react-portfolio/static/media/self.e0456a6fafe44caa71b2.jpg",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.1fcc43ae083308a2506e.pdf",
+    "static/media/feedback.PNG": "/react-portfolio/static/media/feedback.02a72beed18bd78205b8.PNG",
+    "static/media/budget-tracker.PNG": "/react-portfolio/static/media/budget-tracker.77c6d4d675dd1fcdb2fe.PNG",
+    "static/media/weather-dashboard.PNG": "/react-portfolio/static/media/weather-dashboard.d046b252c3eb8304cc1a.PNG",
+    "static/media/note-taker.PNG": "/react-portfolio/static/media/note-taker.6852f2bcf73984f46a78.PNG",
+    "index.html": "/react-portfolio/index.html",
+    "main.54b2f56e.css.map": "/react-portfolio/static/css/main.54b2f56e.css.map",
+    "main.166be568.js.map": "/react-portfolio/static/js/main.166be568.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b2f56e.css",
+    "static/js/main.166be568.js"
+  ]
+}
