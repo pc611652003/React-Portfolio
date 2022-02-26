@@ -5,9 +5,7 @@ function Header(props) {
   const {
     categories = [],
     setCurrentCategory,
-    currentCategory,
-    contactSelected,
-    setContactSelected
+    currentCategory
   } = props;
 
   useEffect(() => {

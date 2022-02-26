@@ -93,6 +93,7 @@ a:hover {
 
 header {
   background: var(--dark);
+  justify-content: space-between;
 }
 
 header a {
@@ -208,6 +209,8 @@ textarea {
 .my-5 {
   margin-top: var(--spacing-five);
   margin-bottom: var(--spacing-five);
+  text-align: center;
+  align-items: center;
 }
 
 .px-1 {
@@ -237,7 +240,7 @@ textarea {
 
 .img-thumbnail {
   width: auto;
-  height: 300px;
+  height: auto;
   margin-bottom: 50px;
   cursor: pointer;
 }
@@ -292,4 +295,25 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+
+#profile {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+
+.imageContainer {
+  width:40%;
+  margin: 3vw;
+  text-align: center;
+}
+
+.link-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer {
+  justify-content: space-between;
 }
