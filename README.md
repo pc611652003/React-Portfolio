@@ -25,12 +25,10 @@ npm start
 
 ## Features
 
-1. Add, Update, or Delete a User
-2. Get one or all Users' info
-3. Add or Delete a friend
-4. Add, Update, or Delete a thought
-5. Get one or all Thoughts' info
-6. Add or Delete a Reaction
+1. Bio about Me
+2. 6 Highlighted Projects I developed
+3. Contact Form
+4. Resume view and download
 
 ## Credits
 
